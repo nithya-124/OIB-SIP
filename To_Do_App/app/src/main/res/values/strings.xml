@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyLoginApp</string>
+    <string name="save">Save</string>
+    <string name="new_task">New Task</string>
+    <string name="To_Do">Tasks</string>
+    <string name="add_task">Add New Task</string>
+
+</resources>
